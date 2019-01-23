@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+<title>feed</title> 
+<atom:link href="https://csa.neocities.org/Ejemplo1/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://csa.neocities.org/Ejemplo1/feed.xml</link> 
+<description>Ejemplo de creación de canal rss</description> 
+<language>es-ES</language>
+
+<item>
+<title>Predicción meteorológica</title>
+<guid>http://www.eltiempo24.es/Almensilla/Andalucia/Espana/ES0SE0010</guid>
+<description>
+ Descubre qué tiempo tendremos
+</description> 
+
+      
+</item>
+<item>
+<title>Buscador</title>
+<link>https://csa.neocities.org/Ejemplo1/news/buscador.html</link>
+<description>
+ Utiliza este buscador
+</description> 
+
+      
+</item>
+
+</channel>
+</rss>
